@@ -6,4 +6,4 @@ MTV212ベーグラントテスト
 更にテスト:wq
 fadoraテスト
 test
-devPyテスト
+devPyテスト2
